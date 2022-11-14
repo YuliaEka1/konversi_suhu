@@ -1,3 +1,26 @@
+# Laporan Praktikum konversi_suhu
+
+Nama : Yulia Eka Ardhani
+
+Kelas : TI 3C
+
+NIM : 2041720064
+
+
+## HASIL
+
+## Tampilan awal
+
+![EMPTY ACTIVITY](ss/ss1.jpeg)
+
+## Tampilan saat menginputkan suhu 37
+ 
+![EMPTY ACTIVITY](ss/ss2.jpeg)
+
+## Tampilan saat mengklik konversi suhu
+
+![EMPTY ACTIVITY](ss/ss3.jpeg)
+
 # konversi_suhu
 
 A new Flutter project.
